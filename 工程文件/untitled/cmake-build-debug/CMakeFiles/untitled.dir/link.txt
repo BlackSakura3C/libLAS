@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o  -o untitled  -Wl,-rpath,/usr/local/lib /usr/local/lib/liblas.so.2.4.0 

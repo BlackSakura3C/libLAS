@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joke/CLionProjects/untitled/main.cpp
+iostream
+-
+liblas/liblas.hpp
+-
+liblas/factory.hpp
+-
+liblas/reader.hpp
+-
+
