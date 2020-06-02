@@ -8,7 +8,7 @@
 2. 任务包含了：
    * LAS文件格式的阅读。其中我搜集的LAS文件格式最新版本为Lib/LAS_1_4_r15.pdf，需要的可以自取
    * Liblas库的配置，整个配置过程和出现的问题都记录在了Answer.md中。在配置中用到的依赖库文件都存在Lib中
-   * 使用liblas库和Clion进行基础编程，测试数据使用的是实验室提供的Lib/lidar.las文件
+   * 使用liblas库和Clion进行基础编程，测试数据使用的是实验室提供的Lib/lidar.las文件，liblas基础编程可见Clion的工程文件
 3. Pic文件下都是Answer.md内部的配图，也是配置过程中的中间截图
 
 ## 2. 补充说明
